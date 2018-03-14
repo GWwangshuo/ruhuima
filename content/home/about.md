@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Network I/0 Virtualization",
+    "Mobile Computing",
+    "Cloud Computing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Postdoctoral Research Assistant in Shanghai Jiao Tong University and McGill University"
+  institution = "School of Electronic Information and Electronical Engineering"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "PhD in Shanghai Jiao Tong University"
+  institution = "School of Electronic Information and Electronical Engineering"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MEng in Jiangnan University"
+  institution = "School of Information and Engineering"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ruhui Ma is an associate  professor of network I/O virtualization at the Shanghai Jiao Tong University Cloud Computing Lab. His research interests include network I/O virtualization, mobile computing and cloud computing. He leads the AISIG group, which devotes to helping students arousing interests of deep learning.

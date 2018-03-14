@@ -21,8 +21,7 @@ tags = []
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
-
+math = false 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
@@ -54,8 +53,9 @@ caption = "My caption :smile:"
 - help students developing the skills needed to recognize, formulate, and solve discrete problems.
 
 #### Lectures sildes
-- [1-xxx.pdf](http://iwct.sjtu.edu.cn/personal/yingcui/Slides/CO/1-introduction.pdf) updated at 08:40 am, Mar. 1
+- [chapter01.pdf](http://202.120.32.250:1313/teaching/documents/discrete_math_chapter01.pdf) updated at 08:22 pm, Mar. 14
 
+- [chapter02.pdf](http://202.120.32.250:1313/teaching/documents/discrete_math_chapter02.pdf) updated at 08:22 pm, Mar. 14
 
 #### Homework
-- 
+- Homework 1: (Chapter 1)-1(2), 1(4), 1(6), 1(8), 4(2), 4(4), 4(6), 5(2), 5(4), 5(6), 5(8), 6(2)
